@@ -13,7 +13,7 @@ Yes, it is.
 Maybe. My Javascript-skills are very limited.
 
 **legal stuff**  
-APGLv3+ and no warranty.
+AGPLv3+ and no warranty.
 
 **other idea**  
 Make a bot that pushes nonsense commits to a repository created for this (or even better meaningful commits to other repos) to draw a picture / a message on the contribution calendar.
